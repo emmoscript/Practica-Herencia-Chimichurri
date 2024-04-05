@@ -1,0 +1,14 @@
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.AssemblyInfoInputs.cache
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.AssemblyInfo.cs
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.csproj.CoreCompileInputs.cache
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\bin\Debug\net8.0\ChimiMiBarriga.exe
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\bin\Debug\net8.0\ChimiMiBarriga.deps.json
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\bin\Debug\net8.0\ChimiMiBarriga.runtimeconfig.json
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\bin\Debug\net8.0\ChimiMiBarriga.dll
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\bin\Debug\net8.0\ChimiMiBarriga.pdb
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.dll
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\refint\ChimiMiBarriga.dll
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.pdb
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ChimiMiBarriga.genruntimeconfig.cache
+C:\Users\ARIEL PANTALEON\Desktop\ChimichurriBurgerApp\ChimiMiBarriga\obj\Debug\net8.0\ref\ChimiMiBarriga.dll
